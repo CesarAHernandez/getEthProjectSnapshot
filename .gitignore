@@ -1,0 +1,6 @@
+
+node_modules
+.env
+whiteList.json
+yarn-error.log
+yarn.lock
